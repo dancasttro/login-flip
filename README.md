@@ -8,13 +8,7 @@
 
 ## Install
 
-Install the component using [Bower](http://bower.io/):
-
-```sh
-$ bower install my-repo --save
-```
-
-Or [download as ZIP](https://github.com/dancasttro/login-flip/archive/master.zip).
+[download as ZIP](https://github.com/dancasttro/login-flip/archive/master.zip).
 
 ## Usage
 
@@ -27,7 +21,7 @@ Or [download as ZIP](https://github.com/dancasttro/login-flip/archive/master.zip
 2. Import Custom Element:
 
     ```html
-    <link rel="import" href="bower_components/login-flip/dist/login-flip.html">
+    <link rel="import" href="dist/login-flip.html">
     ```
 
 3. Start using it!
