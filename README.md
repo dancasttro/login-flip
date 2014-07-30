@@ -8,6 +8,12 @@
 
 ## Install
 
+Install
+
+The best way to install the component is using Bower:
+
+`$ bower install login-flip --save`
+
 [download as ZIP](https://github.com/dancasttro/login-flip/archive/master.zip).
 
 ## Usage
