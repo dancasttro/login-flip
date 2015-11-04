@@ -21,7 +21,7 @@ The best way to install the component is using Bower:
 1. Import Web Components' polyfill:
 
     ```html
-    <script src="bower_components/platform/platform.js"></script>
+    <script src="bower_components/webcomponentsjs/webcomponents.js"></script>
     ```
 
 2. Import Custom Element:
@@ -35,6 +35,8 @@ The best way to install the component is using Bower:
     ```html
     <login-flip></login-flip>
     ```
+    
+Note: There are some visibility Problems with Firefox
 
 ## Development
 
